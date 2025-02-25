@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi 👋 My name is Chris Tomlyne
+Hi 👋 My name is Tomlyne Apoka
 ==============================
 
 Web developer and designer
